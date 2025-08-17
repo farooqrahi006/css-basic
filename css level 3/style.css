@@ -1,4 +1,4 @@
-/* #box1{
+#box1{
     height: 100px;
     width: 100px;
     background-color: green;
@@ -13,17 +13,17 @@
     font-size: 2em;
     width: 5rem;
     height: 100vh;
-} */
+} 
 
-/* div{
+div{
     height: 100px;
     width: 100px;
     background-color: aqua;
     border: 2px solid black;
     display: inline-block;
-} */
+} 
 
-/* #box1{
+#box1{
     position: static;
     background-color: yellowgreen;
 }
@@ -50,9 +50,9 @@
     width: 100%;
     background-color: rgb(13, 225, 45);
 }
- */
 
- /* body{
+
+  body{
     background-image: url("asghar.jpg");
  }
 
@@ -60,7 +60,7 @@
     background-image: url("asghar.jpg");
     background-size: cover;
  }
-  */
+
 
 div{
     height: 100px;
@@ -74,3 +74,4 @@ div{
     right: 0px;
     top: 40px;
 }
+
