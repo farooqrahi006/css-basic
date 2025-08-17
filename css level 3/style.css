@@ -1,0 +1,76 @@
+/* #box1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 10px;
+}
+
+#box2{
+    height: 50px; 
+    width: 50%;
+    background-color: yellow;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5rem;
+    height: 100vh;
+} */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+} */
+
+/* #box1{
+    position: static;
+    background-color: yellowgreen;
+}
+
+#box2{
+    position: relative;
+    background-color: rgb(141, 234, 116);
+    left: 30px;
+    z-index: -3;
+}
+
+#box3{
+    position: sticky;
+    top: 0x;
+    left: 30px;
+    background-color:brown;
+}
+
+#box4{
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(13, 225, 45);
+}
+ */
+
+ /* body{
+    background-image: url("asghar.jpg");
+ }
+
+ #box1{
+    background-image: url("asghar.jpg");
+    background-size: cover;
+ }
+  */
+
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url("asghar.jpg");
+    background-size: cover;
+    color: aliceblue;
+    border-radius: 10px;
+    border:2px solid black;
+    position: fixed;
+    right: 0px;
+    top: 40px;
+}
