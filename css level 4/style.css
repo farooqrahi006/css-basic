@@ -1,4 +1,4 @@
-/* body{
+body{
     text-align: center
 
 }
@@ -43,17 +43,15 @@ div{
 
 #box5{
     background-color: slateblue ;
-} */
+} 
 
-/* div{
+div{
     background-color: bisque;
     display: flex;
     justify-content: space-evenly;
-} */
+} 
 
-
-
-/* .navbar{
+.navbar{
     background-color: rgb(9, 225, 153);
     display: flex;
     justify-content: space-evenly;
@@ -82,9 +80,9 @@ li{
     height: 100px;
     width: 100px;
     background-color: rgb(19, 95, 12);
-} */
+} 
 
-/* div{
+div{
     height: 50px;
     width: 50px;
     background-color: aqua;
@@ -100,7 +98,7 @@ li{
     div{
         background-color: rgb(68, 68, 166);
     }
-} */
+} 
 
 div{
     height: 100px;
@@ -131,3 +129,4 @@ div{
         background-color: rgb(163, 214, 25);
     }
 }
+
