@@ -1,4 +1,4 @@
-/* div{
+div{
     height: 100px;
     width: 100px;
     background-color: aquamarine;
@@ -65,5 +65,5 @@ div:active{
     to{
         transform: rotate(360deg);
     }
-}*/
+}
 
